@@ -224,6 +224,7 @@ using namespace std;
 		if (head != NULL)
 		{
 			cout << "Head Not Null you can display nodes" << endl;
+			cout << "Now Displaying Nodes.." << endl;
 
 			/*temp = node_q.front();
 			node_q.pop();*/
